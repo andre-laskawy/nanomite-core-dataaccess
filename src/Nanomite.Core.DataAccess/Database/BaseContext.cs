@@ -4,12 +4,12 @@
 ///   Date:         02.10.2018 17:30:52
 ///-----------------------------------------------------------------
 
-namespace Nanomite.Services.DataAccess.Database
+namespace Nanomite.Core.DataAccess.Database
 {
     using Community.OData.Linq;
     using Community.OData.Linq.OData.Query.Expressions;
     using Microsoft.EntityFrameworkCore;
-    using Nanomite.Services.DataAccess.Database.Repository;
+    using Nanomite.Core.DataAccess.Database.Repository;
     using System;
     using System.Collections.Generic;
     using System.ComponentModel.Design;

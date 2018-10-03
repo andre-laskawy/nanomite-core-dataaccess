@@ -4,7 +4,7 @@
 ///   Date:         02.10.2018 17:25:38
 ///-----------------------------------------------------------------
 
-namespace Nanomite.Services.DataAccess.Database.Repository
+namespace Nanomite.Core.DataAccess.Database.Repository
 {
     using System;
     using System.Linq;

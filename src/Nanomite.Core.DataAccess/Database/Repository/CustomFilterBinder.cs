@@ -4,7 +4,7 @@
 ///   Date:         02.10.2018 17:29:21
 ///-----------------------------------------------------------------
 
-namespace Nanomite.Services.DataAccess.Database.Repository
+namespace Nanomite.Core.DataAccess.Database.Repository
 {
     using Community.OData.Linq.OData.Query.Expressions;
     using Microsoft.OData.UriParser;

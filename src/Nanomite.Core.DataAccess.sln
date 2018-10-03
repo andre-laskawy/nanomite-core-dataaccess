@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nanomite.Services.DataAccess", "Nanomite.Services.DataAccess\Nanomite.Services.DataAccess.csproj", "{BA0AEBCD-82A0-4021-AB9C-7245AD15391D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nanomite.Core.DataAccess", "Nanomite.Core.DataAccess\Nanomite.Core.DataAccess.csproj", "{BA0AEBCD-82A0-4021-AB9C-7245AD15391D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

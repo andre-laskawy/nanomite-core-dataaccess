@@ -4,9 +4,9 @@
 ///   Date:         02.10.2018 17:17:33
 ///-----------------------------------------------------------------
 
-namespace Nanomite.Services.DataAccess
+namespace Nanomite.Core.DataAccess
 {
-    using Nanomite.Services.DataAccess.Database.Repository;
+    using Nanomite.Core.DataAccess.Database.Repository;
     using System;
     using System.Collections;
     using System.Collections.Generic;
